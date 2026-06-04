@@ -1,0 +1,15 @@
+# Campaign outputs (large, project-specific)
+campaigns/
+
+# Reports (project-specific)
+reports/
+
+# Temp / helper scripts
+**/_update_confluence.py
+**/_mcp_update_args.json
+**/_wiki_payload.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
